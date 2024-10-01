@@ -3,3 +3,4 @@
 https://google.com
 https://youtube.com
 https://discord.com/login
+https://lavishlylearning.com
